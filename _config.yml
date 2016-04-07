@@ -1,9 +1,9 @@
 title:            风之诗
-description:      "-----再牛逼的理想也抵不住傻逼似的坚持"
+description:      "再牛逼的理想也抵不住傻逼似的坚持"
 logo:             omikron.png
 disqus_shortname: hmfaysal
 # Assign a default image for your site's header and footer
-default_bg:       default_bg.jpg
+default_bg:       default_bg1.jpg
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
